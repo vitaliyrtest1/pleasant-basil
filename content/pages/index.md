@@ -17,11 +17,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum why not?
-        url: '#'
-        style: primary
-        arrow: false
-        type: action
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
