@@ -17,7 +17,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: lorem-ipsum why not?
         url: '#'
         style: primary
         arrow: false
